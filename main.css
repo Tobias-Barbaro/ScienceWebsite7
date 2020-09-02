@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+    background-color: rgba(87, 87, 87, 0.274);;
+}
+.nav > li{
+    display:inline-block;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 30px;
+    padding-left: 10px;
+    margin: 0px;
+    padding-top: 0px;
+}
+nav{
+    position: fixed;
+    background-color: rgb(58, 172, 226);
+    color: rgb(75, 72, 72);
+    display: block;
+    width: 100%;
+    margin: 0;
+    border-bottom-right-radius: 10px;
+    /*border-bottom-left-radius: 10px; ew notes*/
+}
+li > a {
+    text-decoration: none;
+    color: rgb(75, 72, 72);
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 20px;
+    padding: 2px;
+    border: 6px solid rgb(34, 148, 201) ;
+    background-color: rgb(34, 148, 201);
+    border-radius: 15px;
+}
+li > a:hover {
+    background-color: rgb(58, 172, 226);
+    border: 6px solid rgb(58, 172, 226);
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+#main{
+    padding: 8px;
+    padding-top: 60px;
+}
+body{
+    margin: 0;
+}
+#links{
+    display: inline-block;
+    vertical-align: super;
+    margin-left:2%;
+}
+#links > li{
+  display: inline;
+}
+li > h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+ul > img{
+    vertical-align: bottom;
+    width: 5%;
+    margin-bottom: -3.5px;
+}
+#text {
+    display: inline-block;
+    vertical-align: top;
+    flex-grow: 1;
+    flex-shrink: 1;
+    height: 10%;
+    padding-left: 10px;
+    margin-right: 100px;
+    width: 35%;
+}
+#video {
+    flex-grow: 4;
+}
+h1{
+    color: rgb(75, 72, 72);
+    font-size: 50px;
+    font-family: 'Luckiest Guy', cursive;
+}
+iframe{
+    margin-top: 20px;
+    border-radius: 4px;
+    background-color: rgb(75, 72, 72);
+    box-shadow: 11px 11px 9px 0 rgb(75, 72, 72);
+}
+#home{
+    display: inline-flex;
+    flex-direction: row;
+}
+#socialheader{
+    color: rgb(75, 72, 72);
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Luckiest Guy', cursive;
+}
+ h2 {
+    color: rgb(75, 72, 72);
+    font-size: 40px;
+    font-family: 'Luckiest Guy', cursive;
+}
+a > img{
+    width: 259px;
+    display: inline-block;
+}
+.parasocial > p{
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+.parasocial{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#social{
+    display: flex;
+}
+#mail{
+    display: flex;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    color: #303030;
+}
+#mail > img{
+    width: 15%;
+}
+#mail > p{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+input{
+    background-color: rgba(197, 197, 197, 0.274);
+    color: #303030;
+    border-radius: 5px;
+}
