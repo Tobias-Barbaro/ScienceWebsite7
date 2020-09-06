@@ -70,18 +70,11 @@ ul > img{
     flex-shrink: 1;
     height: 10%;
     padding-left: 10px;
-    margin-right: 100px;
     width: 35%;
 }
 #whyv {
-    display: inline-block;
+    display: inline;
     vertical-align: top;
-    flex-grow: 4;
-    flex-shrink: 4;
-    height: 10%;
-    padding-left: 10px;
-    margin-right: 100px;
-    width: 35%;
 }
 h1{
     color: 	#4f3114;
@@ -95,8 +88,7 @@ iframe{
     box-shadow: 11px 11px 9px 0 rgb(75, 72, 72);
 }
 #home{
-    display: inline-flex;
-    flex-direction: row;
+    display: inline-block;
 }
 #socialheader{
     color: 			#4f3114;
@@ -145,4 +137,8 @@ input{
     background-color: rgba(197, 197, 197, 0.274);
     color: 		#4f3114;
     border-radius: 5px;
+}
+video{
+    width: 35%;
+    margin-top: 100px;
 }
