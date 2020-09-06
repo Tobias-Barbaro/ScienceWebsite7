@@ -13,8 +13,8 @@ body {
 }
 nav{
     position: fixed;
-    background-color: #18b118;
-    color: 			#753f00;
+    background-color: #4a694a;
+    color: 			#86592d;
     display: block;
     width: 100%;
     margin: 0;
@@ -23,17 +23,17 @@ nav{
 }
 li > a {
     text-decoration: none;
-    color: 		#753f00;
+    color: 		#4f3114;
     font-family: 'Love Ya Like A Sister', cursive;
     font-size: 20px;
     padding: 2px;
-    border: 6px solid #18b118;
-    background-color: #18b118;
+    border: 6px solid #4a694a;
+    background-color: #4a694a;
     border-radius: 15px;
 }
 li > a:hover {
-    background-color: #228B22;
-    border: 6px solid #228B22;
+    background-color: #4a694a;
+    border: 6px solid #4a694a;
 }
 ul{
     padding: 0;
@@ -73,7 +73,7 @@ ul > img{
     margin-right: 100px;
     width: 35%;
 }
-#look {
+#whyv {
     display: inline-block;
     vertical-align: top;
     flex-grow: 4;
@@ -84,7 +84,7 @@ ul > img{
     width: 35%;
 }
 h1{
-    color: 	#753f00;
+    color: 	#4f3114;
     font-size: 50px;
     font-family: 'Love Ya Like A Sister', cursive;
 }
@@ -99,13 +99,13 @@ iframe{
     flex-direction: row;
 }
 #socialheader{
-    color: 			#A0522D;
+    color: 			#4f3114;
     text-align: center;
     font-size: 60px;
     font-family: 'Love Ya Like A Sister', cursive;
 }
  h2 {
-    color: 		#A0522D;
+    color: 		#4f3114;
     font-size: 40px;
     font-family: 'Love Ya Like A Sister', cursive;
 }
@@ -143,6 +143,6 @@ p{
 }
 input{
     background-color: rgba(197, 197, 197, 0.274);
-    color: 		#A0522D;
+    color: 		#4f3114;
     border-radius: 5px;
 }
