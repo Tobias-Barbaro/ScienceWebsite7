@@ -105,12 +105,12 @@ a > img{
     width: 259px;
     display: inline-block;
 }
-.parasocial > p{
+.articles > p{
     width: 100%;
     display: inline-block;
     vertical-align: top;
 }
-.parasocial{
+.articls{
     display: flex;
     flex-direction: column;
     padding-left: 10px;
