@@ -106,12 +106,16 @@ a > img{
     display: inline-block;
 }
 .articles > p{
-    width: 100%;
+    width: 50%;
     display: inline-block;
     vertical-align: top;
 }
+.articles > img{
+    display: inline-block;
+}
 .articles{
     display: flex;
+    display: block;
     flex-direction: column;
     padding-left: 10px;
     padding-right: 10px;
