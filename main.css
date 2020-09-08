@@ -32,8 +32,8 @@ li > a {
     border-radius: 15px;
 }
 li > a:hover {
-    background-color: #4a694a;
-    border: 6px solid #4a694a;
+    border: 6px solid #547e54;
+    background-color: #547e54;
 }
 ul{
     padding: 0;
