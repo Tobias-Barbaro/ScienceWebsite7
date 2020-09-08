@@ -112,6 +112,7 @@ a > img{
 }
 .articles > img{
     display: inline-block;
+    width: 49%
 }
 .articles{
     display: flex;
