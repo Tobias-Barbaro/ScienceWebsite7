@@ -110,6 +110,7 @@ a > img{
     display: inline-block;
     vertical-align: top;
 }
+
 .articles > img{
     display: inline-block;
     width: 49%;
@@ -119,6 +120,7 @@ a > img{
     display: inline-block;
     width: 49%;
     border-radius: 5px;
+    background-color: black;
 }
 .articles{
     display: flex;
@@ -128,7 +130,7 @@ a > img{
     padding-right: 10px;
 }
 #endangerd{
-    display: flex;
+    display: inline-block;
 }
 #mail{
     display: flex;
