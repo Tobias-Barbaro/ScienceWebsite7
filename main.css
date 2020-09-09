@@ -114,7 +114,11 @@ a > img{
     display: inline-block;
     width: 49%;
     border-radius: 5px;
-    box-shadow: 5p
+}
+.articles > video{
+    display: inline-block;
+    width: 49%;
+    border-radius: 5px;
 }
 .articles{
     display: flex;
@@ -123,7 +127,7 @@ a > img{
     padding-left: 10px;
     padding-right: 10px;
 }
-#social{
+#endangerd{
     display: flex;
 }
 #mail{
