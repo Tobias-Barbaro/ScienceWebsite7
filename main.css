@@ -121,6 +121,13 @@ a > img{
     width: 49%;
     border-radius: 5px;
     background-color: black;
+    vertical-align: top;
+}
+.articles > ul {
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
 }
 .articles{
     display: flex;
