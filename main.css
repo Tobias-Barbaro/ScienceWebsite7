@@ -49,7 +49,7 @@ body{
 #links{
     display: inline-block;
     vertical-align: super;
-    margin-left:30%;
+    margin-left:5%;
 }
 #links > li{
   display: inline;
